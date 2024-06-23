@@ -1,6 +1,6 @@
 # CRUD Application using MERN Stack
 
-<img src="">
+<img src="https://github.com/ItsMeAreebaAmjad/crud-MERN/blob/main/crud.png">
 
 This is a CRUD (Create, Read, Update, Delete) application built using the MERN stack. The MERN stack comprises MongoDB, Express.js, React.js, and Node.js. This application provides a simple and intuitive interface to manage data through a RESTful API.
 
